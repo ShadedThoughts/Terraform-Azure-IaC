@@ -1,0 +1,1 @@
+# Always enable TFLINT by creating a file ".tflint.hcl" in the root dir, add the plugin block, and run the command "tflint --init"
